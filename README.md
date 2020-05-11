@@ -1,5 +1,5 @@
 # ADBinstallerscript
-Can automate installing of Android apss on devices through ADB
+Can automate installing of Android apps on devices through ADB
 
 # Requires ADB
 Can use portable or installed version
